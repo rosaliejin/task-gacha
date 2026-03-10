@@ -1,4 +1,4 @@
-# ✨ Task Gacha
+# Task Gacha
 
 **Gamified task management for brains that work differently.**
 
@@ -6,7 +6,7 @@ Turn your to-do list into a dopamine-fueled adventure. Task Gacha uses randomnes
 
 ---
 
-## 🎮 What is Task Gacha?
+## What is Task Gacha?
 
 Stuck between a million tasks? Can't decide what to do? **Let the gacha machine decide for you.**
 
@@ -16,7 +16,7 @@ It's simple. It's fun. And it actually works—especially if your brain runs on 
 
 ---
 
-## 🧠 Why This Works (The Science Bit)
+## Why This Works (The Science Bit)
 
 ### For ADHD Brains
 People with ADHD often struggle with task initiation and decision paralysis. Too many options = analysis paralysis. **Randomness solves this.** By removing the choice, you remove the friction.
@@ -31,7 +31,7 @@ The unpredictability of not knowing which task you'll get creates a small dopami
 
 ---
 
-## 🌟 Features
+## Features
 
 - **Smart Gacha Draw** - Pulls from your task list based on time availability & task categories
 - **Time Filters** - Set your available time, and only get tasks you can actually complete
@@ -44,7 +44,7 @@ The unpredictability of not knowing which task you'll get creates a small dopami
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Installation
 
@@ -72,7 +72,7 @@ The optimized build will be in the `dist/` folder.
 
 ---
 
-## 📝 How to Use
+## How to Use
 
 1. **Add Tasks** - Go to the Inventory tab and add all your tasks with time estimates and categories
 2. **Set Filters** - Choose your available time and preferred categories
@@ -83,7 +83,7 @@ The optimized build will be in the `dist/` folder.
 
 ---
 
-## 🎯 Pro Tips
+## Pro Tips
 
 - **Set realistic time limits** - If you say you have 20 mins, you'll only get 20-min tasks
 - **Categorize thoughtfully** - Use filters to create "moods" (just want chores? Just pick chores!)
@@ -93,33 +93,7 @@ The optimized build will be in the `dist/` folder.
 
 ---
 
-## 💭 The Philosophy
-
-Task Gacha isn't about forcing productivity. It's about **working *with* your brain instead of against it.**
-
-If you're neurodivergent, work-from-home, or just hate boring productivity apps, this one's for you.
-
----
-
-## 🛠️ Tech Stack
-
-- **React 19** - UI framework
-- **Vite** - Lightning-fast build tool
-- **Modern CSS** - Clean, minimal styling
-
----
-
-## 📚 Inspiration
-
-This project was inspired by:
-- The psychology of gamification and reward
-- How randomness reduces decision fatigue
-- The ADHD community's creative productivity hacks
-- The unexpected dopamine hits from gacha mechanics
-
----
-
-## 🤝 Contributing
+## Contributing
 
 Got ideas? Found a bug? Want to add features?
 
@@ -127,13 +101,13 @@ PRs are welcome! Whether it's new features, bug fixes, or just making things pre
 
 ---
 
-## 📄 License
+## License
 
 MIT
 
 ---
 
-## 💬 Feedback
+## Feedback
 
 Does Task Gacha help you? Struggle with it? Found a bug?
 
@@ -141,4 +115,4 @@ Open an issue or reach out. Real feedback from real users helps make this better
 
 ---
 
-**Stop overthinking. Start pulling. Get stuff done.** 🎲✨
+**Stop overthinking. Start pulling. Get stuff done.**
